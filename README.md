@@ -8,7 +8,8 @@ Analizar el comportamiento de los clientes de ConnectaTel mediante técnicas de 
 
 **Datasets utilizados**
 
-El proyecto utiliza tres archivos CSV: 
+El proyecto utiliza tres archivos CSV:
+
 •	plans.csv: información de los planes (precio, minutos, mensajes y GB incluidos).
 •	users_latam.csv: datos de los clientes (edad, ciudad, plan, fecha de registro y churn).
 •	usage.csv: historial de uso de llamadas y mensajes de cada usuario.
