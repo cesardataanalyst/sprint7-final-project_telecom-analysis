@@ -10,19 +10,18 @@ Analizar el comportamiento de los clientes de ConnectaTel mediante técnicas de 
 
 El proyecto utiliza tres archivos CSV:
 
-•	plans.csv: información de los planes (precio, minutos, mensajes y GB incluidos).
-•	users_latam.csv: datos de los clientes (edad, ciudad, plan, fecha de registro y churn).
+•	plans.csv: información de los planes (precio, minutos, mensajes y GB incluidos).             •	users_latam.csv: datos de los clientes (edad, ciudad, plan, fecha de registro y churn). 
 •	usage.csv: historial de uso de llamadas y mensajes de cada usuario.
 
 **Etapas del análisis**
 
 •	Carga y exploración de los datos. 
 •	Identificación y limpieza de valores nulos, sentinels y fechas inválidas.
-•	Creación de métricas de uso por usuario.
-•	Análisis estadístico y visualización de distribuciones.
-•	Detección de valores atípicos (outliers).
-•	Segmentación de clientes por nivel de uso y grupo de edad.
-•	Elaboración de conclusiones y recomendaciones para el negocio.
+•	Creación de métricas de uso por usuario. 
+•	Análisis estadístico y visualización de distribuciones. 
+•	Detección de valores atípicos (outliers). 
+•	Segmentación de clientes por nivel de uso y grupo de edad. 
+•	Elaboración de conclusiones y recomendaciones para el negocio. 
 
 **Cómo ejecutar el proyecto**
 
