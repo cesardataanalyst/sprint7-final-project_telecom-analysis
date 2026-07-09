@@ -1,5 +1,7 @@
 # sprint7-final-project_telecom-analysis
+
 **ConnectaTel - Análisis del Comportamiento de Clientes**
+
 **Objetivo del proyecto**
 Analizar el comportamiento de los clientes de ConnectaTel mediante técnicas de análisis exploratorio de datos (EDA), con el fin de identificar patrones de consumo, detectar problemas de calidad en los datos, segmentar usuarios y proponer recomendaciones para mejorar la oferta de planes y las estrategias de retención.
 **Datasets utilizados**
