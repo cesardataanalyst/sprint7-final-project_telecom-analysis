@@ -142,4 +142,7 @@ Estas recomendaciones deben interpretarse dentro del alcance de los datos dispon
 - 4.	Verificar que los datasets estén disponibles en la ruta utilizada por el notebook.
 - 5.	Ejecutar las celdas en orden.
 - 6.	Revisar las visualizaciones, resultados y conclusiones generadas
+ 
+## Autor
+Proyecto desarrollado por Cesar Palacio como parte de su formación en Data Analytics, posteriormente reorganizado y documentado para su portafolio profesional en GitHub.
 
